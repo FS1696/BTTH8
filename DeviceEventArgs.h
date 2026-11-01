@@ -1,6 +1,6 @@
 /****************/
-/* Ma sinh vien: ................................ */
-/* Ho ten: ....................................... */
+// Mã sinh viên: 202419074
+// Họ tên: Vũ Thành Lâm
 /****************/
 #ifndef DEVICE_EVENT_ARGS_H
 #define DEVICE_EVENT_ARGS_H

@@ -1,6 +1,6 @@
 /****************/
-/* Ma sinh vien: ................................ */
-/* Ho ten: ....................................... */
+// Mã sinh viên: 202419074
+// Họ tên: Vũ Thành Lâm
 /****************/
 #ifndef TEACHING_DEVICE_H
 #define TEACHING_DEVICE_H

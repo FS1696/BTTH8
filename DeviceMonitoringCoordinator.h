@@ -1,6 +1,6 @@
 /****************/
-/* Ma sinh vien: ................................ */
-/* Ho ten: ....................................... */
+// Mã sinh viên: 202419074
+// Họ tên: Vũ Thành Lâm
 /****************/
 #ifndef DEVICE_MONITORING_COORDINATOR_H
 #define DEVICE_MONITORING_COORDINATOR_H
